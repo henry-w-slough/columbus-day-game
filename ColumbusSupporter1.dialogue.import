@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=18
+type="Resource"
+uid="uid://bc241envxsbmt"
+path="res://.godot/imported/ColumbusSupporter1.dialogue-3898313037e6fbc580703f989078e37b.tres"
+
+[deps]
+
+source_file="res://ColumbusSupporter1.dialogue"
+dest_files=["res://.godot/imported/ColumbusSupporter1.dialogue-3898313037e6fbc580703f989078e37b.tres"]
+
+[params]
+
+defaults=true
