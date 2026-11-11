@@ -1,0 +1,16 @@
+~ start
+
+George (Supporter): Hello there.
+
+- What is your opinion of Christopher Columbus?
+	
+	George (Supporter): To me, his knowledge of the seas makes him a great man.
+	George (Supporter): He crossed an ocean and found this wonderful land for us and our country.
+	George (Supporter): The skill it takes to do that... it is almost unimaginable.
+	George (Supporter): He was denied for years, but he had the ambition to secure the funding and execute this project as skillfully as he did.
+	George (Supporter): The respect I have for him is very high.
+	=> start
+	
+- Goodbye
+	George (Supporter): Have a good day.
+	=> END

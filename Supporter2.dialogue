@@ -1,0 +1,15 @@
+~ start
+
+William (Supporter): Salutations.
+
+- What is your opinion of Christopher Columbus?
+	
+	William (Supporter): As an Italian man, I support him completely.
+	William (Supporter): The Italian immigrants of today don't see as much recognition as they should, and he has given light to us.
+	William (Supporter): Though he has made bad decisions, he brought us all over here and opened up new possibilites and standards for living.
+	William (Supporter): That means more to me than anything.
+	=> start
+	
+- Goodbye
+	William (Supporter): See you.
+	=> END

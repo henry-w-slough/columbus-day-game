@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=18
+type="Resource"
+uid="uid://wwp3nvdunqkm"
+path="res://.godot/imported/Opposer2.dialogue-61b581c5e5e87a047ebc3fd675ef389d.tres"
+
+[deps]
+
+source_file="res://Opposer2.dialogue"
+dest_files=["res://.godot/imported/Opposer2.dialogue-61b581c5e5e87a047ebc3fd675ef389d.tres"]
+
+[params]
+
+defaults=true

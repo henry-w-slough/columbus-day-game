@@ -1,0 +1,17 @@
+~ start
+
+Nathaniel (Opposer): Hello, are you new around here?
+
+- What is your opinion on Christopher Columbus?
+	Nathaniel (Opposer): What isn't my opinion? I hear he cuts off the noses, hands, and ears of the slaves in his captivity.
+	Nathaniel (Opposer): 
+	Nathaniel (Opposer): To him it seems they are merely numbers!
+	Nathaniel (Opposer): I am here for my country and my family. I see the potential of resources and new land over here.
+	Nathaniel (Opposer): ahem... I also cut off the hands... But it's not personal!
+	=> start
+	
+- Goodbye
+	Nathaniel (Opposer): Stay safe now.
+	=> END
+	
+=> END

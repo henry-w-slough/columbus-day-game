@@ -1,0 +1,15 @@
+~ start
+
+Gregory (Opposer): Nice to see a new face around the New World.
+
+- How do you feel about Christopher Columbus?
+	Gregory (Opposer): Just between us... He's an awful man. Have you heard of what he has started? 
+	Gregory (Opposer): There's a trans-continental slave trade going on because of his doings. 
+	Gregory (Opposer): They put the enslaved on ships and send them between countries to sell.
+	Gregory (Opposer): I've heard they give them little food and little water, that's if they survive long enought to get any.
+	Gregory (Opposer): If I controlled this ordeal, I would have ended it long ago.
+	=> start
+	
+- Goodbye
+	Gregory (Opposer): Alright.
+	=> END

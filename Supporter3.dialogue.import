@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=18
+type="Resource"
+uid="uid://c6xlxpp24gegb"
+path="res://.godot/imported/Supporter3.dialogue-bfeeff407a230151f3e898f70c768750.tres"
+
+[deps]
+
+source_file="res://Supporter3.dialogue"
+dest_files=["res://.godot/imported/Supporter3.dialogue-bfeeff407a230151f3e898f70c768750.tres"]
+
+[params]
+
+defaults=true

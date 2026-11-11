@@ -1,0 +1,16 @@
+~ start
+
+Benjamin (Opposer): Hello, how are you?
+
+- How do you feel about Christopher Columbus?
+	Benjamin (Opposer): I've met the man in real life. I was the head doctor on his ship: the Santa Maria.
+	Benjamin (Opposer): The number of indigenous people that we killed with the disease we brought over, good golly!
+	Benjamin (Opposer): When it began, I warned him of the effect it would have on them. 
+	Benjamin (Opposer): I even tried to help them myself! I used all our best tools.
+	Benjamin (Opposer): No matter how much of the blood I drained, they just got paler and paler!
+	Benjamin (Opposer): What a tragedy... Anyway...
+	=> start
+	
+- Goodbye
+	Benjamin (Opposer):  (Opposer): See you on the morrow.
+	=> END

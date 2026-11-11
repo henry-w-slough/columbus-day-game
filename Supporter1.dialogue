@@ -1,0 +1,15 @@
+~ start
+
+Morrison (Supporter): How do you do?
+
+- What is your opinion of Christopher Columbus?
+	
+	Morrison (Supporter): He brought all of us over here. That's revolutionary in and of itself.
+	Morrison (Supporter): The effect his actions will have on global cultures will be profound. Centuries of civillization will be thriving!
+	Morrison (Supporter): Can't you believe it? Imagine a world where you can eat foods and learn ideas from Africa while your in the New World!
+	Morrison (Supporter): I rest my case.
+	=> start
+	
+- Goodbye
+	Morrison (Supporter): See you.
+	=> END
