@@ -1,11 +1,15 @@
 ~ start
-Nathan: [[Hi|Hello|Howdy]], this is some dialogue.
-Nathan: Here are some choices.
-- First one
-	Nathan: You picked the first one.
-- Second one
-	Nathan: You picked the second one.
-- Start again => start
-- End the conversation => END
-Nathan: For more information see the online documentation.
+
+Nathaniel: Hello, are you new around here?
+
+- What is your opinion on Christopher Columbus?
+	Nathaniel: What isn't my opinion? I hear he cuts off the hands of the slaves in his captivity.
+	Nathaniel: To him it seems they are merely numbers!
+	Nathaniel: I am here merely for my country and for my family.
+	Nathaniel: ahem... I also cut off the hands... But it's not personal!
+	
+- Goodbye
+	Nathaniel: Stay safe now.
+	=> END
+	
 => END

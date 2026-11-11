@@ -7,6 +7,7 @@
 [ext_resource type="Texture2D" uid="uid://64258ovj0bul" path="res://Assets/building.png" id="5_fo5ed"]
 [ext_resource type="Texture2D" uid="uid://dsgo4xcuhlrdd" path="res://Assets/foliage.png" id="6_5ukr8"]
 [ext_resource type="PackedScene" uid="uid://cgt2hpt0ee34f" path="res://Scenes/NPC1.tscn" id="7_o06y3"]
+[ext_resource type="Resource" uid="uid://bc241envxsbmt" path="res://ColumbusSupporter1.dialogue" id="8_k7acu"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_8j60k"]
 texture = ExtResource("2_5a7ea")
@@ -1549,3 +1550,6 @@ tile_set = SubResource("TileSet_w4cbh")
 
 [node name="Npc1" parent="." unique_id=44288139 instance=ExtResource("7_o06y3")]
 position = Vector2(767, 504)
+input_pickable = true
+DialogueResource = ExtResource("8_k7acu")
+DialogueCue = "start"

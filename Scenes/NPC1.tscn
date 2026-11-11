@@ -2,6 +2,7 @@
 
 [ext_resource type="Script" uid="uid://b6cf7lsgcyrm6" path="res://Scripts/NPC.cs" id="1_fog05"]
 [ext_resource type="Texture2D" uid="uid://b7cujgj2ijr1u" path="res://Assets/npc_idle.png" id="1_wvxkp"]
+[ext_resource type="Resource" uid="uid://bc241envxsbmt" path="res://ColumbusSupporter1.dialogue" id="2_dialogue"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_fog05"]
 atlas = ExtResource("1_wvxkp")
@@ -58,6 +59,8 @@ radius = 9.0
 
 [node name="Npc1" type="CharacterBody2D" unique_id=44288139]
 script = ExtResource("1_fog05")
+DialogueResource = ExtResource("2_dialogue")
+DialogueCue = "start"
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1232107203]
 sprite_frames = SubResource("SpriteFrames_in6rm")

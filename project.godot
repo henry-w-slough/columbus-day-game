@@ -22,11 +22,12 @@ DialogueManager="*uid://c3rodes2l3gxb"
 [dialogue_manager]
 
 runtime/advanced/uses_dotnet=true
+runtime/balloon_path="res://Scenes/Balloon.tscn"
 
 [display]
 
-window/size/viewport_width=1800
-window/size/viewport_height=1800
+window/size/viewport_width=1200
+window/size/viewport_height=1000
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 
