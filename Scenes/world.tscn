@@ -1560,35 +1560,35 @@ tile_set = SubResource("TileSet_w4cbh")
 [node name="Npc1" parent="." unique_id=44288139 instance=ExtResource("7_o06y3")]
 position = Vector2(769, 500)
 input_pickable = true
-DialogueResource = ExtResource("8_k7acu")
-DialogueCue = "start"
+dialogue_resource = ExtResource("8_k7acu")
+dialogue_cue = "start"
 
 [node name="Npc2" parent="." unique_id=101376255 instance=ExtResource("7_o06y3")]
 position = Vector2(543, 481)
 input_pickable = true
-DialogueResource = ExtResource("9_c5t2i")
-DialogueCue = "start"
+dialogue_resource = ExtResource("9_c5t2i")
+dialogue_cue = "start"
 
 [node name="Npc3" parent="." unique_id=2046858199 instance=ExtResource("7_o06y3")]
 position = Vector2(1109, 600)
 input_pickable = true
-DialogueResource = ExtResource("10_e0ngr")
-DialogueCue = "start"
+dialogue_resource = ExtResource("10_e0ngr")
+dialogue_cue = "start"
 
 [node name="Npc4" parent="." unique_id=1078372832 instance=ExtResource("7_o06y3")]
 position = Vector2(919, 825)
 input_pickable = true
-DialogueResource = ExtResource("11_kn0ld")
-DialogueCue = "start"
+dialogue_resource = ExtResource("11_kn0ld")
+dialogue_cue = "start"
 
 [node name="Npc5" parent="." unique_id=1875882783 instance=ExtResource("7_o06y3")]
 position = Vector2(508, 636)
 input_pickable = true
-DialogueResource = ExtResource("12_hgpy0")
-DialogueCue = "start"
+dialogue_resource = ExtResource("12_hgpy0")
+dialogue_cue = "start"
 
 [node name="Npc6" parent="." unique_id=1357878290 instance=ExtResource("7_o06y3")]
 position = Vector2(362, 981)
 input_pickable = true
-DialogueResource = ExtResource("13_t2t4p")
-DialogueCue = "start"
+dialogue_resource = ExtResource("13_t2t4p")
+dialogue_cue = "start"

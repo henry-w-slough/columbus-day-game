@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://cgt2hpt0ee34f"]
 
-[ext_resource type="Script" uid="uid://b6cf7lsgcyrm6" path="res://Scripts/NPC.cs" id="1_fog05"]
+[ext_resource type="Script" path="res://Scripts/NPC.gd" id="1_fog05"]
 [ext_resource type="Texture2D" uid="uid://b7cujgj2ijr1u" path="res://Assets/npc_idle.png" id="1_wvxkp"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_fog05"]
